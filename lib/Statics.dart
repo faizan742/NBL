@@ -220,7 +220,7 @@ class _StaticsState extends State<Statics> {
 
 
 
-      drawer: MyDrawer(name:'Games'),
+      drawer: MyDrawer(name:'Statics'),
     );
   }
 }

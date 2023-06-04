@@ -230,7 +230,7 @@ class _PlayersState extends State<Players> {
           ),
         ],
       ),
-      drawer: MyDrawer(name: 'Team'),
+      drawer: MyDrawer(name: 'Player'),
     );
   }
 
